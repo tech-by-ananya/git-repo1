@@ -1,3 +1,3 @@
 # git-repo1
-This is my first Git Repository
-Author- Ananya Aashi
+This is my first Git Repository .
+-> Author- Ananya Aashi
